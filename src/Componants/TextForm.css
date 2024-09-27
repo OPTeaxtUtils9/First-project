@@ -1,0 +1,20 @@
+#myBox{
+    border-radius: 5px;
+    border: 2px solid black;
+}
+h1{
+    font-size: 1.9rem;
+    font-weight: 800;
+    color: linear-gradient(90deg, #145f53 0%, #008552 100%);
+}
+p{
+    font-size: 20px;
+}
+#textRead{
+    text-decoration: underline;
+    /* color: #740707; */
+    font-weight: 800;
+}
+.btn{
+    border: none;
+}
